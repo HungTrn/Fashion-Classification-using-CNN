@@ -59,6 +59,6 @@ cd Fashion-Classification-using-CNN
 3. Run notebook:
 ```jupyter notebook```
 4. Open:
-your_notebook.ipynb
+```Fashion_Class_Classification_Using_CNN.ipynb```
 
 
