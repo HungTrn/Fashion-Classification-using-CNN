@@ -1,5 +1,38 @@
 # Fashion-Classification-using-CNN
-#📖 1. Overview
+
+# 📖 1. Overview
 This project builds a Convolutional Neural Network (CNN) model to classify fashion items from the Fashion-MNIST dataset.
 
 The goal is to explore deep learning techniques for image classification and understand how CNNs extract visual features from raw pixel data.
+
+# 📊 2. Dataset
+- Dataset: Fashion-MNIST
+- Total samples: 70,000 images
+- Training: 60,000
+- Testing: 10,000
+- Image size: 28x28 grayscale
+- Classes: 10 (T-shirt, Trouser, Dress, Sneaker, etc.)
+
+# 🧠 3. Model Architecture
+
+The CNN model consists of:
+- Convolutional layers (feature extraction)
+- MaxPooling layers (downsampling)
+- Fully connected layers (classification)
+- Dropout (reduce overfitting)
+
+# ⚙️ 4. Pipeline
+
+1. Data loading
+2. Data preprocessing (normalization)
+3. Model building (CNN)
+4. Training
+5. Evaluation
+
+# 📈 5. Results
+
+- Accuracy: 91.6%
+- Loss: XX
+- Evaluation:
+  - Confusion Matrix
+  - Classification Report
