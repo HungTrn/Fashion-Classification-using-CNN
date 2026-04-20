@@ -49,7 +49,16 @@ The CNN model consists of:
 
 # 🚀 7. How to Run
 
-> pip install -r requirements.txt  
-> python train.py
+1. Clone repo:
+```bash
+git clone https://github.com/HungTrn/Fashion-Classification-using-CNN.git
+cd Fashion-Classification-using-CNN
+```
+2. Install dependencies:
+```pip install -r requirements.txt```
+3. Run notebook:
+```jupyter notebook```
+4. Open:
+your_notebook.ipynb
 
 
