@@ -4,6 +4,9 @@
 This project builds a Convolutional Neural Network (CNN) model to classify fashion items from the Fashion-MNIST dataset.
 
 The goal is to explore deep learning techniques for image classification and understand how CNNs extract visual features from raw pixel data.
+## 📌 Notes
+- Model achieves ~91.6% test accuracy on Fashion-MNIST
+- Some classes show lower recall due to visual similarity
 
 # 📊 2. Dataset
 - Dataset: Fashion-MNIST
@@ -46,7 +49,7 @@ The CNN model consists of:
 
 # 🚀 7. How to Run
 
-> pip install -r requirements.txt 
+> pip install -r requirements.txt  
 > python train.py
 
 
