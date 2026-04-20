@@ -32,7 +32,21 @@ The CNN model consists of:
 # 📈 5. Results
 
 - Accuracy: 91.6%
-- Loss: XX
+- Loss: 0.26
 - Evaluation:
   - Confusion Matrix
   - Classification Report
+
+# 🛠️ 6. Tech Stack
+
+- Python
+- TensorFlow / Keras
+- NumPy, Pandas
+- Matplotlib, Seaborn
+
+# 🚀 7. How to Run
+
+> pip install -r requirements.txt 
+> python train.py
+
+
